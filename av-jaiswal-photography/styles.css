@@ -24,6 +24,8 @@ body{
   line-height:1.6;
 }
 img{display:block;max-width:100%;}
+img,video{background:linear-gradient(135deg, var(--alabaster), #e4d7b0);}
+.hero-video{background:linear-gradient(135deg, #3a2e27, var(--espresso));}
 a{text-decoration:none;color:inherit;}
 button{font-family:inherit;cursor:pointer;border:none;background:none;}
 .section-inner{max-width:1240px;margin:0 auto;padding:0 32px;}
